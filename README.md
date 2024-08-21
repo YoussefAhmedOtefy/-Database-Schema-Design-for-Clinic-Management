@@ -1,0 +1,1 @@
+# -Database-Schema-Design-for-Clinic-Management
